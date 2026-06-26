@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Макромир//Календарь//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Мероприятия Макромир
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:makromir-20260622-1@makromir
+DTSTART;TZID=Europe/Moscow:20260622T110000
+DTEND;TZID=Europe/Moscow:20260622T120000
+SUMMARY:Марафон «Протри камеру»
+DESCRIPTION:Ведение соцсетей. Спикер: Елена Гончаренко
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260622-2@makromir
+DTSTART;TZID=Europe/Moscow:20260622T120000
+DTEND;TZID=Europe/Moscow:20260622T130000
+SUMMARY:Съёмка Reels
+DESCRIPTION:СММ-менеджер Дарья
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260622-3@makromir
+DTSTART;TZID=Europe/Moscow:20260622T090000
+DTEND;TZID=Europe/Moscow:20260622T100000
+SUMMARY:ДР: Газалий Алла
+CATEGORIES:день рождения
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260623-4@makromir
+DTSTART;TZID=Europe/Moscow:20260623T100000
+DTEND;TZID=Europe/Moscow:20260623T110000
+SUMMARY:Встреча с ипотечным брокером
+DESCRIPTION:Марина Буцева
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260623-5@makromir
+DTSTART;TZID=Europe/Moscow:20260623T090000
+DTEND;TZID=Europe/Moscow:20260623T100000
+SUMMARY:ДР: Коваленко Екатерина
+CATEGORIES:день рождения
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260624-6@makromir
+DTSTART;TZID=Europe/Moscow:20260624T060000
+DTEND;TZID=Europe/Moscow:20260624T070000
+SUMMARY:Экскурсия по квартирам — МАКРО Сплав
+DESCRIPTION:Выезд 6:00. Ссылка: https://forms.gle/81ERRCgg2qhiLjH66
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260625-7@makromir
+DTSTART;TZID=Europe/Moscow:20260625T140000
+DTEND;TZID=Europe/Moscow:20260625T150000
+SUMMARY:Вебинар: Ипотека снова в игре
+DESCRIPTION:Как продавать ипотечные сделки на готовом жилье. Спикер: Никита Хохлов. Ссылка: https://krasnodar.mmir.pro/study/webinars/20518
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260626-8@makromir
+DTSTART;TZID=Europe/Moscow:20260626T110000
+DTEND;TZID=Europe/Moscow:20260626T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260626-9@makromir
+DTSTART;TZID=Europe/Moscow:20260626T113000
+DTEND;TZID=Europe/Moscow:20260626T123000
+SUMMARY:Презентация: Земельные участки в Крыму АРТ
+DESCRIPTION:Менеджер: Максим
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260626-10@makromir
+DTSTART;TZID=Europe/Moscow:20260626T120000
+DTEND;TZID=Europe/Moscow:20260626T130000
+SUMMARY:Вебинар: Тайм-менеджмент
+DESCRIPTION:Классический и психологический. Спикер: Сергей Ермолаев. Ссылка: https://krasnodar.mmir.pro/study/webinars/20469
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260626-11@makromir
+DTSTART;TZID=Europe/Moscow:20260626T130000
+DTEND;TZID=Europe/Moscow:20260626T140000
+SUMMARY:Презентация: КП Виктория
+DESCRIPTION:Менеджер: Демченко Иван\, +79288842216
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260629-12@makromir
+DTSTART;TZID=Europe/Moscow:20260629T100000
+DTEND;TZID=Europe/Moscow:20260629T110000
+SUMMARY:Встреча с юристами
+DESCRIPTION:Команда Мазур
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260630-13@makromir
+DTSTART;TZID=Europe/Moscow:20260630T123000
+DTEND;TZID=Europe/Moscow:20260630T133000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260701-14@makromir
+DTSTART;TZID=Europe/Moscow:20260701T100000
+DTEND;TZID=Europe/Moscow:20260701T110000
+SUMMARY:Экскурсия: Дома
+DESCRIPTION:Новая Адыгея (Дружбы 43\, Красная 39)\, Козет (Хеттская 1)\, Динская (Славянская 90). Автобус 10 человек. Ссылка: https://forms.gle/nXEXt3TACrD5NDA97
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260703-15@makromir
+DTSTART;TZID=Europe/Moscow:20260703T110000
+DTEND;TZID=Europe/Moscow:20260703T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260703-16@makromir
+DTSTART;TZID=Europe/Moscow:20260703T113000
+DTEND;TZID=Europe/Moscow:20260703T123000
+SUMMARY:Презентация: СК Легус
+DESCRIPTION:Менеджер: Иван\, +79282051345
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260703-17@makromir
+DTSTART;TZID=Europe/Moscow:20260703T130000
+DTEND;TZID=Europe/Moscow:20260703T140000
+SUMMARY:Презентация: Фабрика мебели «Полезный объём»
+DESCRIPTION:Условия сотрудничества и продукция. Менеджер: Алла
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260707-18@makromir
+DTSTART;TZID=Europe/Moscow:20260707T100000
+DTEND;TZID=Europe/Moscow:20260707T110000
+SUMMARY:Встреча с ипотечным брокером
+DESCRIPTION:Марина Буцева
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260708-19@makromir
+DTSTART;TZID=Europe/Moscow:20260708T110000
+DTEND;TZID=Europe/Moscow:20260708T120000
+SUMMARY:Клуб горячих предложений по квартирам
+DESCRIPTION:Куратор: Ирина Кокина
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260709-20@makromir
+DTSTART;TZID=Europe/Moscow:20260709T113000
+DTEND;TZID=Europe/Moscow:20260709T123000
+SUMMARY:Экскурсия: Квартиры — Хороший дом (Южный ветер)
+DESCRIPTION:Менеджеры: Маргарита 928-260-13-12\, Александр 989-261-20-54
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260709-21@makromir
+DTSTART;TZID=Europe/Moscow:20260709T123000
+DTEND;TZID=Europe/Moscow:20260709T133000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260710-22@makromir
+DTSTART;TZID=Europe/Moscow:20260710T110000
+DTEND;TZID=Europe/Moscow:20260710T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260710-23@makromir
+DTSTART;TZID=Europe/Moscow:20260710T130000
+DTEND;TZID=Europe/Moscow:20260710T140000
+SUMMARY:Презентация: БауИнвест — ЖК Другие берега
+DESCRIPTION:Новые территории г. Геническ. Менеджер: Алексей
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260710-24@makromir
+DTSTART;TZID=Europe/Moscow:20260710T140000
+DTEND;TZID=Europe/Moscow:20260710T150000
+SUMMARY:Квиз по новостройкам
+DESCRIPTION:Спикер: Тамила Савельева
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260714-25@makromir
+DTSTART;TZID=Europe/Moscow:20260714T100000
+DTEND;TZID=Europe/Moscow:20260714T110000
+SUMMARY:Встреча с юристами
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260715-26@makromir
+DTSTART;TZID=Europe/Moscow:20260715T113000
+DTEND;TZID=Europe/Moscow:20260715T123000
+SUMMARY:Экскурсия: Дома — СК Среда
+DESCRIPTION:Менеджер: Ольга
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260715-27@makromir
+DTSTART;TZID=Europe/Moscow:20260715T123000
+DTEND;TZID=Europe/Moscow:20260715T133000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260717-28@makromir
+DTSTART;TZID=Europe/Moscow:20260717T110000
+DTEND;TZID=Europe/Moscow:20260717T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260717-29@makromir
+DTSTART;TZID=Europe/Moscow:20260717T130000
+DTEND;TZID=Europe/Moscow:20260717T140000
+SUMMARY:Презентация: СК Браво\, ЖК Кипарис\, ЖК Смородина
+DESCRIPTION:Менеджер: Такахо Амина
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260721-30@makromir
+DTSTART;TZID=Europe/Moscow:20260721T100000
+DTEND;TZID=Europe/Moscow:20260721T110000
+SUMMARY:Встреча с ипотечным брокером
+DESCRIPTION:Марина Буцева
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260722-31@makromir
+DTSTART;TZID=Europe/Moscow:20260722T123000
+DTEND;TZID=Europe/Moscow:20260722T133000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260723-32@makromir
+DTSTART;TZID=Europe/Moscow:20260723T090000
+DTEND;TZID=Europe/Moscow:20260723T100000
+SUMMARY:Экскурсия: Квартиры
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260724-33@makromir
+DTSTART;TZID=Europe/Moscow:20260724T110000
+DTEND;TZID=Europe/Moscow:20260724T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260724-34@makromir
+DTSTART;TZID=Europe/Moscow:20260724T113000
+DTEND;TZID=Europe/Moscow:20260724T123000
+SUMMARY:Презентация: Стройка и Точка
+DESCRIPTION:Менеджер: Любовь
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260724-35@makromir
+DTSTART;TZID=Europe/Moscow:20260724T130000
+DTEND;TZID=Europe/Moscow:20260724T140000
+SUMMARY:Презентация: Сиреневый бульвар
+DESCRIPTION:Менеджер: Елена Горбалы
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260728-36@makromir
+DTSTART;TZID=Europe/Moscow:20260728T100000
+DTEND;TZID=Europe/Moscow:20260728T110000
+SUMMARY:Встреча с юристами
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260729-37@makromir
+DTSTART;TZID=Europe/Moscow:20260729T113000
+DTEND;TZID=Europe/Moscow:20260729T123000
+SUMMARY:Экскурсия: Дома — СК Точно
+DESCRIPTION:Менеджер: Николай
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260729-38@makromir
+DTSTART;TZID=Europe/Moscow:20260729T123000
+DTEND;TZID=Europe/Moscow:20260729T133000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260731-39@makromir
+DTSTART;TZID=Europe/Moscow:20260731T110000
+DTEND;TZID=Europe/Moscow:20260731T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260731-40@makromir
+DTSTART;TZID=Europe/Moscow:20260731T130000
+DTEND;TZID=Europe/Moscow:20260731T140000
+SUMMARY:Презентация: СК АВА
+DESCRIPTION:Менеджер: Владимир
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260701-41@makromir
+DTSTART;TZID=Europe/Moscow:20260701T213000
+DTEND;TZID=Europe/Moscow:20260701T223000
+SUMMARY:СК "Семья" Коммерция\nЖК "Все свои"\, ЖК "Друзья"\, ЖК "Теплые Края"\, ЖК "Моренуар"
+DESCRIPTION:Руководитель по коммерческой недвижимости: Александр Яценко
+CATEGORIES:офис
+END:VEVENT
+END:VCALENDAR
