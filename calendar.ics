@@ -252,41 +252,49 @@ BEGIN:VEVENT
 UID:makromir-20260721-32@makromir
 DTSTART;TZID=Europe/Moscow:20260721T214500
 DTEND;TZID=Europe/Moscow:20260721T224500
-SUMMARY:Застройщик
-DESCRIPTION: Презентация\nСтройка и Точка
+SUMMARY:  Презентация\nСтройка и Точка
+DESCRIPTION:Менеджер:Любовь
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
 UID:makromir-20260721-33@makromir
 DTSTART;TZID=Europe/Moscow:20260721T230000
 DTEND;TZID=Europe/Moscow:20260722T000000
-SUMMARY:Застройщик
-DESCRIPTION:СК Браво ЖК Кипарис ЖК Смородина
+SUMMARY:СК Браво ЖК Кипарис ЖК Смородина
+DESCRIPTION:Менеджер:Такахо Амина
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260722-34@makromir
+UID:makromir-20260721-34@makromir
+DTSTART;TZID=Europe/Moscow:20260721T000000
+DTEND;TZID=Europe/Moscow:20260721T010000
+SUMMARY:ГК Победа
+DESCRIPTION:Менеджер: Юлия
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260722-35@makromir
 DTSTART;TZID=Europe/Moscow:20260722T123000
 DTEND;TZID=Europe/Moscow:20260722T133000
 SUMMARY:Клуб по вторичным домам
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260723-35@makromir
+UID:makromir-20260723-36@makromir
 DTSTART;TZID=Europe/Moscow:20260723T090000
 DTEND;TZID=Europe/Moscow:20260723T100000
 SUMMARY:Экскурсия: Квартиры
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260724-36@makromir
+UID:makromir-20260724-37@makromir
 DTSTART;TZID=Europe/Moscow:20260724T110000
 DTEND;TZID=Europe/Moscow:20260724T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260724-37@makromir
+UID:makromir-20260724-38@makromir
 DTSTART;TZID=Europe/Moscow:20260724T113000
 DTEND;TZID=Europe/Moscow:20260724T123000
 SUMMARY:Презентация: Стройка и Точка
@@ -294,7 +302,7 @@ DESCRIPTION:Менеджер: Любовь
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260724-38@makromir
+UID:makromir-20260724-39@makromir
 DTSTART;TZID=Europe/Moscow:20260724T130000
 DTEND;TZID=Europe/Moscow:20260724T140000
 SUMMARY:Презентация: Сиреневый бульвар
@@ -302,14 +310,14 @@ DESCRIPTION:Менеджер: Елена Горбалы
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260728-39@makromir
+UID:makromir-20260728-40@makromir
 DTSTART;TZID=Europe/Moscow:20260728T100000
 DTEND;TZID=Europe/Moscow:20260728T110000
 SUMMARY:Встреча с юристами
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260729-40@makromir
+UID:makromir-20260729-41@makromir
 DTSTART;TZID=Europe/Moscow:20260729T113000
 DTEND;TZID=Europe/Moscow:20260729T123000
 SUMMARY:Экскурсия: Дома — СК Точно
@@ -317,7 +325,7 @@ DESCRIPTION:Менеджер: Николай
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260729-41@makromir
+UID:makromir-20260729-42@makromir
 DTSTART;TZID=Europe/Moscow:20260729T123000
 DTEND;TZID=Europe/Moscow:20260729T133000
 SUMMARY:Клуб по вторичным домам
@@ -325,18 +333,25 @@ DESCRIPTION:Куратор: Ирина Горшкова
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260731-42@makromir
+UID:makromir-20260731-43@makromir
 DTSTART;TZID=Europe/Moscow:20260731T110000
 DTEND;TZID=Europe/Moscow:20260731T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260731-43@makromir
+UID:makromir-20260731-44@makromir
 DTSTART;TZID=Europe/Moscow:20260731T130000
 DTEND;TZID=Europe/Moscow:20260731T140000
 SUMMARY:Презентация: СК АВА
 DESCRIPTION:Менеджер: Владимир
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260731-45@makromir
+DTSTART;TZID=Europe/Moscow:20260731T003000
+DTEND;TZID=Europe/Moscow:20260731T013000
+SUMMARY:тест
 CATEGORIES:офис
 END:VEVENT
 END:VCALENDAR
