@@ -117,14 +117,22 @@ DESCRIPTION:Новая Адыгея (Дружбы 43\, Красная 39)\, Ко
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260703-15@makromir
+UID:makromir-20260701-15@makromir
+DTSTART;TZID=Europe/Moscow:20260701T213000
+DTEND;TZID=Europe/Moscow:20260701T223000
+SUMMARY:СК "Семья" Коммерция\nЖК "Все свои"\, ЖК "Друзья"\, ЖК "Теплые Края"\, ЖК "Моренуар"
+DESCRIPTION:Руководитель по коммерческой недвижимости: Александр Яценко
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260703-16@makromir
 DTSTART;TZID=Europe/Moscow:20260703T110000
 DTEND;TZID=Europe/Moscow:20260703T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260703-16@makromir
+UID:makromir-20260703-17@makromir
 DTSTART;TZID=Europe/Moscow:20260703T113000
 DTEND;TZID=Europe/Moscow:20260703T123000
 SUMMARY:Презентация: СК Легус
@@ -132,7 +140,7 @@ DESCRIPTION:Менеджер: Иван\, +79282051345
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260703-17@makromir
+UID:makromir-20260703-18@makromir
 DTSTART;TZID=Europe/Moscow:20260703T130000
 DTEND;TZID=Europe/Moscow:20260703T140000
 SUMMARY:Презентация: Фабрика мебели «Полезный объём»
@@ -140,7 +148,7 @@ DESCRIPTION:Условия сотрудничества и продукция. �
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260707-18@makromir
+UID:makromir-20260707-19@makromir
 DTSTART;TZID=Europe/Moscow:20260707T100000
 DTEND;TZID=Europe/Moscow:20260707T110000
 SUMMARY:Встреча с ипотечным брокером
@@ -148,7 +156,7 @@ DESCRIPTION:Марина Буцева
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260708-19@makromir
+UID:makromir-20260708-20@makromir
 DTSTART;TZID=Europe/Moscow:20260708T110000
 DTEND;TZID=Europe/Moscow:20260708T120000
 SUMMARY:Клуб горячих предложений по квартирам
@@ -156,7 +164,7 @@ DESCRIPTION:Куратор: Ирина Кокина
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260709-20@makromir
+UID:makromir-20260709-21@makromir
 DTSTART;TZID=Europe/Moscow:20260709T113000
 DTEND;TZID=Europe/Moscow:20260709T123000
 SUMMARY:Экскурсия: Квартиры — Хороший дом (Южный ветер)
@@ -164,7 +172,7 @@ DESCRIPTION:Менеджеры: Маргарита 928-260-13-12\, Алекса�
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260709-21@makromir
+UID:makromir-20260709-22@makromir
 DTSTART;TZID=Europe/Moscow:20260709T123000
 DTEND;TZID=Europe/Moscow:20260709T133000
 SUMMARY:Клуб по вторичным домам
@@ -172,14 +180,14 @@ DESCRIPTION:Куратор: Ирина Горшкова
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260710-22@makromir
+UID:makromir-20260710-23@makromir
 DTSTART;TZID=Europe/Moscow:20260710T110000
 DTEND;TZID=Europe/Moscow:20260710T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260710-23@makromir
+UID:makromir-20260710-24@makromir
 DTSTART;TZID=Europe/Moscow:20260710T130000
 DTEND;TZID=Europe/Moscow:20260710T140000
 SUMMARY:Презентация: БауИнвест — ЖК Другие берега
@@ -187,7 +195,7 @@ DESCRIPTION:Новые территории г. Геническ. Менедже
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260710-24@makromir
+UID:makromir-20260710-25@makromir
 DTSTART;TZID=Europe/Moscow:20260710T140000
 DTEND;TZID=Europe/Moscow:20260710T150000
 SUMMARY:Квиз по новостройкам
@@ -195,14 +203,14 @@ DESCRIPTION:Спикер: Тамила Савельева
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260714-25@makromir
+UID:makromir-20260714-26@makromir
 DTSTART;TZID=Europe/Moscow:20260714T100000
 DTEND;TZID=Europe/Moscow:20260714T110000
 SUMMARY:Встреча с юристами
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260715-26@makromir
+UID:makromir-20260715-27@makromir
 DTSTART;TZID=Europe/Moscow:20260715T113000
 DTEND;TZID=Europe/Moscow:20260715T123000
 SUMMARY:Экскурсия: Дома — СК Среда
@@ -210,7 +218,7 @@ DESCRIPTION:Менеджер: Ольга
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260715-27@makromir
+UID:makromir-20260715-28@makromir
 DTSTART;TZID=Europe/Moscow:20260715T123000
 DTEND;TZID=Europe/Moscow:20260715T133000
 SUMMARY:Клуб по вторичным домам
@@ -218,14 +226,14 @@ DESCRIPTION:Куратор: Ирина Горшкова
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260717-28@makromir
+UID:makromir-20260717-29@makromir
 DTSTART;TZID=Europe/Moscow:20260717T110000
 DTEND;TZID=Europe/Moscow:20260717T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260717-29@makromir
+UID:makromir-20260717-30@makromir
 DTSTART;TZID=Europe/Moscow:20260717T130000
 DTEND;TZID=Europe/Moscow:20260717T140000
 SUMMARY:Презентация: СК Браво\, ЖК Кипарис\, ЖК Смородина
@@ -233,7 +241,7 @@ DESCRIPTION:Менеджер: Такахо Амина
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260721-30@makromir
+UID:makromir-20260721-31@makromir
 DTSTART;TZID=Europe/Moscow:20260721T100000
 DTEND;TZID=Europe/Moscow:20260721T110000
 SUMMARY:Встреча с ипотечным брокером
@@ -241,29 +249,36 @@ DESCRIPTION:Марина Буцева
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260722-31@makromir
-DTSTART;TZID=Europe/Moscow:20260722T123000
-DTEND;TZID=Europe/Moscow:20260722T133000
-SUMMARY:Клуб по вторичным домам
-DESCRIPTION:Куратор: Ирина Горшкова
+UID:makromir-20260721-32@makromir
+DTSTART;TZID=Europe/Moscow:20260721T214500
+DTEND;TZID=Europe/Moscow:20260721T224500
+SUMMARY:Застройщик
+DESCRIPTION: Презентация\nСтройка и Точка
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260723-32@makromir
+UID:makromir-20260722-34@makromir
+DTSTART;TZID=Europe/Moscow:20260722T123000
+DTEND;TZID=Europe/Moscow:20260722T133000
+SUMMARY:Клуб по вторичным домам
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260723-35@makromir
 DTSTART;TZID=Europe/Moscow:20260723T090000
 DTEND;TZID=Europe/Moscow:20260723T100000
 SUMMARY:Экскурсия: Квартиры
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260724-33@makromir
+UID:makromir-20260724-36@makromir
 DTSTART;TZID=Europe/Moscow:20260724T110000
 DTEND;TZID=Europe/Moscow:20260724T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260724-34@makromir
+UID:makromir-20260724-37@makromir
 DTSTART;TZID=Europe/Moscow:20260724T113000
 DTEND;TZID=Europe/Moscow:20260724T123000
 SUMMARY:Презентация: Стройка и Точка
@@ -271,7 +286,7 @@ DESCRIPTION:Менеджер: Любовь
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260724-35@makromir
+UID:makromir-20260724-38@makromir
 DTSTART;TZID=Europe/Moscow:20260724T130000
 DTEND;TZID=Europe/Moscow:20260724T140000
 SUMMARY:Презентация: Сиреневый бульвар
@@ -279,14 +294,14 @@ DESCRIPTION:Менеджер: Елена Горбалы
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260728-36@makromir
+UID:makromir-20260728-39@makromir
 DTSTART;TZID=Europe/Moscow:20260728T100000
 DTEND;TZID=Europe/Moscow:20260728T110000
 SUMMARY:Встреча с юристами
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260729-37@makromir
+UID:makromir-20260729-40@makromir
 DTSTART;TZID=Europe/Moscow:20260729T113000
 DTEND;TZID=Europe/Moscow:20260729T123000
 SUMMARY:Экскурсия: Дома — СК Точно
@@ -294,7 +309,7 @@ DESCRIPTION:Менеджер: Николай
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260729-38@makromir
+UID:makromir-20260729-41@makromir
 DTSTART;TZID=Europe/Moscow:20260729T123000
 DTEND;TZID=Europe/Moscow:20260729T133000
 SUMMARY:Клуб по вторичным домам
@@ -302,26 +317,18 @@ DESCRIPTION:Куратор: Ирина Горшкова
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260731-39@makromir
+UID:makromir-20260731-42@makromir
 DTSTART;TZID=Europe/Moscow:20260731T110000
 DTEND;TZID=Europe/Moscow:20260731T120000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260731-40@makromir
+UID:makromir-20260731-43@makromir
 DTSTART;TZID=Europe/Moscow:20260731T130000
 DTEND;TZID=Europe/Moscow:20260731T140000
 SUMMARY:Презентация: СК АВА
 DESCRIPTION:Менеджер: Владимир
-CATEGORIES:офис
-END:VEVENT
-BEGIN:VEVENT
-UID:makromir-20260701-41@makromir
-DTSTART;TZID=Europe/Moscow:20260701T213000
-DTEND;TZID=Europe/Moscow:20260701T223000
-SUMMARY:СК "Семья" Коммерция\nЖК "Все свои"\, ЖК "Друзья"\, ЖК "Теплые Края"\, ЖК "Моренуар"
-DESCRIPTION:Руководитель по коммерческой недвижимости: Александр Яценко
 CATEGORIES:офис
 END:VEVENT
 END:VCALENDAR
