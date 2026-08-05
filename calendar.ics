@@ -422,6 +422,13 @@ CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
 UID:makromir-20260806-53@makromir
+DTSTART;TZID=Europe/Moscow:20260806T110000
+DTEND;TZID=Europe/Moscow:20260806T120000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260806-54@makromir
 DTSTART;TZID=Europe/Moscow:20260806T120000
 DTEND;TZID=Europe/Moscow:20260806T130000
 SUMMARY:Агрессивные стратегии в коммуникации: технологии обмана и манипуляций
@@ -429,7 +436,7 @@ DESCRIPTION:Спикер:Сергей Ермолаев
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260807-54@makromir
+UID:makromir-20260807-55@makromir
 DTSTART;TZID=Europe/Moscow:20260807T173000
 DTEND;TZID=Europe/Moscow:20260807T183000
 SUMMARY:Экскурсия Квартиры
@@ -437,7 +444,7 @@ DESCRIPTION:Куратор: Марина Годжиева
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260807-55@makromir
+UID:makromir-20260807-56@makromir
 DTSTART;TZID=Europe/Moscow:20260807T203000
 DTEND;TZID=Europe/Moscow:20260807T213000
 SUMMARY:Влияние партнёрства Хабиба Нурмагомедова на инвестиции\, доходность и капитализацию проектов Sun Hills Development\n
