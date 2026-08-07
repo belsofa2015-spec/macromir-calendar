@@ -440,15 +440,55 @@ UID:makromir-20260807-55@makromir
 DTSTART;TZID=Europe/Moscow:20260807T173000
 DTEND;TZID=Europe/Moscow:20260807T183000
 SUMMARY:Экскурсия Квартиры
-DESCRIPTION:Куратор: Марина Годжиева
+DESCRIPTION:Куратор: Марина Гаджиева
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
 UID:makromir-20260807-56@makromir
-DTSTART;TZID=Europe/Moscow:20260807T203000
-DTEND;TZID=Europe/Moscow:20260807T213000
+DTSTART;TZID=Europe/Moscow:20260807T100000
+DTEND;TZID=Europe/Moscow:20260807T110000
 SUMMARY:Влияние партнёрства Хабиба Нурмагомедова на инвестиции\, доходность и капитализацию проектов Sun Hills Development\n
 DESCRIPTION:Спикеры: Максим Карренберг\, Мария Другова
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260811-57@makromir
+DTSTART;TZID=Europe/Moscow:20260811T100000
+DTEND;TZID=Europe/Moscow:20260811T110000
+SUMMARY:Встреча с юристами\nКоманда Мазур\n
+DESCRIPTION:Екатерина Баскаева
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260811-58@makromir
+DTSTART;TZID=Europe/Moscow:20260811T113000
+DTEND;TZID=Europe/Moscow:20260811T123000
+SUMMARY:ДОМА СК Групп Строй
+DESCRIPTION:Менеджер:Аслан Азизов
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260811-59@makromir
+DTSTART;TZID=Europe/Moscow:20260811T130000
+DTEND;TZID=Europe/Moscow:20260811T140000
+SUMMARY:Встреча по первичной недвижимости
+DESCRIPTION:Куратор: Марина Гаджиева
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20250811-60@makromir
+DTSTART;TZID=Europe/Moscow:20250811T003000
+DTEND;TZID=Europe/Moscow:20250811T013000
+SUMMARY:ДДУ без сюрпризов: как риэлтору увидеть риски до подписания и защитить клиента в споре с застройщиком
+DESCRIPTION:Менеджер:Марьяна Баларева
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260813-61@makromir
+DTSTART;TZID=Europe/Moscow:20260813T120000
+DTEND;TZID=Europe/Moscow:20260813T130000
+SUMMARY:Рассрочка от застройщика: где искать лучшие предложения для клиентов
+DESCRIPTION:Менеджер:Ирина Юзова
 CATEGORIES:вебинар
 END:VEVENT
 END:VCALENDAR
