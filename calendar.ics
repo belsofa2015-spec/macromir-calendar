@@ -456,7 +456,6 @@ UID:makromir-20260811-57@makromir
 DTSTART;TZID=Europe/Moscow:20260811T100000
 DTEND;TZID=Europe/Moscow:20260811T110000
 SUMMARY:Встреча с юристами\nКоманда Мазур\n
-DESCRIPTION:Екатерина Баскаева
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
