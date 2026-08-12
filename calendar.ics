@@ -483,15 +483,22 @@ DESCRIPTION:Менеджер:Марьяна Баларева
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20250812-61@makromir
-DTSTART;TZID=Europe/Moscow:20250812T213000
-DTEND;TZID=Europe/Moscow:20250812T223000
+UID:makromir-20250813-61@makromir
+DTSTART;TZID=Europe/Moscow:20250813T213000
+DTEND;TZID=Europe/Moscow:20250813T223000
 SUMMARY:Брокер-тур ДОГМА \nКоммерческая недвижимость
 DESCRIPTION:Куратор: Марина Уфимцева
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260813-62@makromir
+UID:makromir-20250813-62@makromir
+DTSTART;TZID=Europe/Moscow:20250813T213000
+DTEND;TZID=Europe/Moscow:20250813T223000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260813-63@makromir
 DTSTART;TZID=Europe/Moscow:20260813T120000
 DTEND;TZID=Europe/Moscow:20260813T130000
 SUMMARY:Рассрочка от застройщика: где искать лучшие предложения для клиентов
