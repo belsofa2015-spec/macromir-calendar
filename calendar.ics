@@ -456,6 +456,7 @@ UID:makromir-20260811-57@makromir
 DTSTART;TZID=Europe/Moscow:20260811T100000
 DTEND;TZID=Europe/Moscow:20260811T110000
 SUMMARY:Встреча с юристами\nКоманда Мазур\n
+DESCRIPTION:Владимир Триандафилов
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
@@ -475,25 +476,25 @@ DESCRIPTION:Куратор: Марина Гаджиева
 CATEGORIES:офис
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20250811-60@makromir
-DTSTART;TZID=Europe/Moscow:20250811T003000
-DTEND;TZID=Europe/Moscow:20250811T013000
+UID:makromir-20260811-60@makromir
+DTSTART;TZID=Europe/Moscow:20260811T003000
+DTEND;TZID=Europe/Moscow:20260811T013000
 SUMMARY:ДДУ без сюрпризов: как риэлтору увидеть риски до подписания и защитить клиента в споре с застройщиком
 DESCRIPTION:Менеджер:Марьяна Баларева
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20250813-61@makromir
-DTSTART;TZID=Europe/Moscow:20250813T213000
-DTEND;TZID=Europe/Moscow:20250813T223000
+UID:makromir-20260813-61@makromir
+DTSTART;TZID=Europe/Moscow:20260813T213000
+DTEND;TZID=Europe/Moscow:20260813T223000
 SUMMARY:Брокер-тур ДОГМА \nКоммерческая недвижимость
 DESCRIPTION:Куратор: Марина Уфимцева
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20250813-62@makromir
-DTSTART;TZID=Europe/Moscow:20250813T213000
-DTEND;TZID=Europe/Moscow:20250813T223000
+UID:makromir-20260813-62@makromir
+DTSTART;TZID=Europe/Moscow:20260813T213000
+DTEND;TZID=Europe/Moscow:20260813T223000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
@@ -503,6 +504,85 @@ DTSTART;TZID=Europe/Moscow:20260813T120000
 DTEND;TZID=Europe/Moscow:20260813T130000
 SUMMARY:Рассрочка от застройщика: где искать лучшие предложения для клиентов
 DESCRIPTION:Менеджер:Ирина Юзова
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260817-64@makromir
+DTSTART;TZID=Europe/Moscow:20260817T120000
+DTEND;TZID=Europe/Moscow:20260817T130000
+SUMMARY:111% комиссии — вот\, что я хочу 
+DESCRIPTION:Менеджер:Сергей Корчака
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260818-65@makromir
+DTSTART;TZID=Europe/Moscow:20260818T203000
+DTEND;TZID=Europe/Moscow:20260818T213000
+SUMMARY:Встреча с ипотечным брокером
+DESCRIPTION:Марина Буцева
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260818-66@makromir
+DTSTART;TZID=Europe/Moscow:20260818T220000
+DTEND;TZID=Europe/Moscow:20260818T230000
+SUMMARY:ЮГрупп
+DESCRIPTION:Менеджер: Дения
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260818-67@makromir
+DTSTART;TZID=Europe/Moscow:20260818T233000
+DTEND;TZID=Europe/Moscow:20260819T003000
+SUMMARY:ГК Победа
+DESCRIPTION:Менеджер: Юлия
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260818-68@makromir
+DTSTART;TZID=Europe/Moscow:20260818T120000
+DTEND;TZID=Europe/Moscow:20260818T130000
+SUMMARY:Твоя золотая тень. От рутины к новым возможностям 
+DESCRIPTION:Спикер:\nЯрослав Панькив
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260819-69@makromir
+DTSTART;TZID=Europe/Moscow:20260819T003000
+DTEND;TZID=Europe/Moscow:20260819T013000
+SUMMARY:Альфа-Банк: новые возможности для ускорения ипотечной сделки
+DESCRIPTION:Спикер\nДмитрий Воробьев
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260820-70@makromir
+DTSTART;TZID=Europe/Moscow:20260820T090000
+DTEND;TZID=Europe/Moscow:20260820T100000
+SUMMARY:Экскурсия Квартиры
+DESCRIPTION:Куратор: Марина Гаджиева
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260820-71@makromir
+DTSTART;TZID=Europe/Moscow:20260820T213000
+DTEND;TZID=Europe/Moscow:20260820T223000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260820-72@makromir
+DTSTART;TZID=Europe/Moscow:20260820T223000
+DTEND;TZID=Europe/Moscow:20260820T233000
+SUMMARY:Тревога\, беспокойство и страх: что мешает нам работать уверенно
+DESCRIPTION:Спикер:\nСергей Ермолаев
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260821-73@makromir
+DTSTART;TZID=Europe/Moscow:20260821T213000
+DTEND;TZID=Europe/Moscow:20260821T223000
+SUMMARY: СК СРЕДАСТРОЙ Новый проэкт ЖК ЭРА\, КРД
+DESCRIPTION:Максим Фирсов
 CATEGORIES:вебинар
 END:VEVENT
 END:VCALENDAR
