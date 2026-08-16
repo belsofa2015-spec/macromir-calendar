@@ -548,6 +548,14 @@ CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
 UID:makromir-20260819-69@makromir
+DTSTART;TZID=Europe/Moscow:20260819T230000
+DTEND;TZID=Europe/Moscow:20260820T000000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260819-70@makromir
 DTSTART;TZID=Europe/Moscow:20260819T003000
 DTEND;TZID=Europe/Moscow:20260819T013000
 SUMMARY:Альфа-Банк: новые возможности для ускорения ипотечной сделки
@@ -555,7 +563,7 @@ DESCRIPTION:Спикер\nДмитрий Воробьев
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260820-70@makromir
+UID:makromir-20260820-71@makromir
 DTSTART;TZID=Europe/Moscow:20260820T090000
 DTEND;TZID=Europe/Moscow:20260820T100000
 SUMMARY:Экскурсия Квартиры
@@ -563,14 +571,14 @@ DESCRIPTION:Куратор: Марина Гаджиева
 CATEGORIES:экскурсия
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260820-71@makromir
+UID:makromir-20260820-72@makromir
 DTSTART;TZID=Europe/Moscow:20260820T213000
 DTEND;TZID=Europe/Moscow:20260820T223000
 SUMMARY:Обучение TOP&LAB
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260820-72@makromir
+UID:makromir-20260820-73@makromir
 DTSTART;TZID=Europe/Moscow:20260820T223000
 DTEND;TZID=Europe/Moscow:20260820T233000
 SUMMARY:Тревога\, беспокойство и страх: что мешает нам работать уверенно
@@ -578,7 +586,7 @@ DESCRIPTION:Спикер:\nСергей Ермолаев
 CATEGORIES:вебинар
 END:VEVENT
 BEGIN:VEVENT
-UID:makromir-20260821-73@makromir
+UID:makromir-20260821-74@makromir
 DTSTART;TZID=Europe/Moscow:20260821T213000
 DTEND;TZID=Europe/Moscow:20260821T223000
 SUMMARY: СК СРЕДАСТРОЙ Новый проэкт ЖК ЭРА\, КРД
