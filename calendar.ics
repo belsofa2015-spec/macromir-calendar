@@ -518,7 +518,7 @@ BEGIN:VEVENT
 UID:makromir-20260818-65@makromir
 DTSTART;TZID=Europe/Moscow:20260818T203000
 DTEND;TZID=Europe/Moscow:20260818T213000
-SUMMARY:Встреча с ипотечным брокером
+SUMMARY:Встреча с ипотечным брокером ВТБ
 DESCRIPTION:Марина Буцева
 CATEGORIES:офис
 END:VEVENT
