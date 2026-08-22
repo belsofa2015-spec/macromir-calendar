@@ -593,4 +593,91 @@ SUMMARY: СК СРЕДАСТРОЙ Новый проэкт ЖК ЭРА\, КРД
 DESCRIPTION:Максим Фирсов
 CATEGORIES:вебинар
 END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260825-75@makromir
+DTSTART;TZID=Europe/Moscow:20260825T203000
+DTEND;TZID=Europe/Moscow:20260825T213000
+SUMMARY:Встреча с юристами
+DESCRIPTION:Евгения Бондаренко
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260825-76@makromir
+DTSTART;TZID=Europe/Moscow:20260825T220000
+DTEND;TZID=Europe/Moscow:20260825T230000
+SUMMARY:Аксис Центр
+DESCRIPTION:Менеджер: Тамара
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260825-77@makromir
+DTSTART;TZID=Europe/Moscow:20260825T230000
+DTEND;TZID=Europe/Moscow:20260826T000000
+SUMMARY:Арт Групп
+DESCRIPTION:Менеджер: Наталья
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260825-78@makromir
+DTSTART;TZID=Europe/Moscow:20260825T003000
+DTEND;TZID=Europe/Moscow:20260825T013000
+SUMMARY:Сделки с военнослужащими: ипотека\, доверенности\, льготы\, выплаты и электронные повестки
+DESCRIPTION:Спикер:\nМарьяна Баларева
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260826-79@makromir
+DTSTART;TZID=Europe/Moscow:20260826T230000
+DTEND;TZID=Europe/Moscow:20260827T000000
+SUMMARY:Клуб по вторичным домам
+DESCRIPTION:Куратор: Ирина Горшкова
+CATEGORIES:офис
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260826-80@makromir
+DTSTART;TZID=Europe/Moscow:20260826T223000
+DTEND;TZID=Europe/Moscow:20260826T233000
+SUMMARY:Ultra Dubai: лучшие резиденции первой береговой линии от Ellington Properties
+DESCRIPTION:Спикеры:\nЯна Поспелова и Алексей Федорченко
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260827-81@makromir
+DTSTART;TZID=Europe/Moscow:20260827T180000
+DTEND;TZID=Europe/Moscow:20260827T190000
+SUMMARY:ЭКСКУРСИЯ\nБрокер-тур г. Майкоп СК МЕТЕРИКС ЖК Звёзды
+DESCRIPTION:Менеджер: Валерия
+CATEGORIES:экскурсия
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260827-82@makromir
+DTSTART;TZID=Europe/Moscow:20260827T213000
+DTEND;TZID=Europe/Moscow:20260827T223000
+SUMMARY:Обучение TOP&LAB
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260827-83@makromir
+DTSTART;TZID=Europe/Moscow:20260827T223000
+DTEND;TZID=Europe/Moscow:20260827T233000
+SUMMARY:Свежие старты Москвы: новые проекты\, о которых еще не говорят все
+DESCRIPTION:Спикер: Ирина Юзова
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260828-84@makromir
+DTSTART;TZID=Europe/Moscow:20260828T213000
+DTEND;TZID=Europe/Moscow:20260828T223000
+SUMMARY:Лайтхаус  Курортная недвижимость "Лучи" 
+DESCRIPTION:Спикер: Ян Хансон
+CATEGORIES:вебинар
+END:VEVENT
+BEGIN:VEVENT
+UID:makromir-20260828-85@makromir
+DTSTART;TZID=Europe/Moscow:20260828T223000
+DTEND;TZID=Europe/Moscow:20260828T233000
+SUMMARY:Соцсети будущего\, куда пойти агенту\, чтобы получать бесплатный органический трафик и обойти конкурентов
+DESCRIPTION:Спикер:\nЕкатерина Стабровская
+CATEGORIES:вебинар
+END:VEVENT
 END:VCALENDAR
